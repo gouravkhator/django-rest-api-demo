@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+migrations/
+
+*.sqlite3
+
+*.py[cod]
+*$py.class
