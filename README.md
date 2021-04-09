@@ -30,7 +30,7 @@ python manage.py runserver
 
 ## URLs For Visiting
 
-* API Overview: /api/
+* API Overview: / or /api/
 * API to show List of Tasks: /api/task-list/
 * API for Task Creation: /api/task-create/
 * API for showing Task Detail: /api/task-detail/\<id\>/
